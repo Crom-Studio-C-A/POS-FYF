@@ -210,3 +210,4 @@ function bpay(config) {
     handler.config = config;
     return handler;
 }
+
