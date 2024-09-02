@@ -149,7 +149,7 @@ const handler = {
         document.getElementById("bpay_debito").onclick = (e) => {
             /********* Llamar a variable ENV *******/
             // const APP_URL = "https://bpay.sencillo.com.ve"; // PRODUCCION
-            const APP_URL = "https://bpay.btc.com.ve"; // DESARROLLO
+            const APP_URL = "https://bpay.sencillo.com.ve"; // DESARROLLO
             // const APP_URL = "http://localhost:8000"; // LOCAL
             /* ------ */
 
@@ -166,7 +166,7 @@ const handler = {
         document.getElementById("bpay_sts_req").onclick = (e) => {
             /********* Llamar a variable ENV *******/
             // const APP_URL = "https://bpay.sencillo.com.ve"; // PRODUCCION
-            const APP_URL = "https://bpay.btc.com.ve"; // DESARROLLO
+            const APP_URL = "https://bpay.sencillo.com.ve"; // DESARROLLO
             // const APP_URL = "http://localhost:8000"; // LOCAL
             /* ------ */
 
